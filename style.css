@@ -20,7 +20,7 @@ body{
   background-color: hsl(244, 38%, 16%);
 }
 .container{
-  border-radius: 10px;
+  border-radius: 1rem;
   width: 690px;
   height: 300px;
 }
